@@ -16,7 +16,7 @@
   url: https://t.me/AzizbekAzamovich
 
 - type: buymeacoffee
-  icon: "fab fa-buymeacoffee"
+  icon: <i class="fa fa-buymeacoffee" aria-hidden="true"></i>
   url: https://www.buymeacoffee.com/azizbek.kobilov
 
 # Uncomment and complete the url below to enable more contact options
